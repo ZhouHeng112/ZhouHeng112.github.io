@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Heng Zhou"
   avatar           : "images/zhouzhou1.jpg"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Southern University of Science and Technology‌"
+  location         : "Shenzhen"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
