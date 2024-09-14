@@ -43,17 +43,17 @@ Yaoxing Wang, , **Heng Zhou**, , Xian Mo Hao Liu
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.06 - 2024.07 , Ningxia University，Master's Degree, Computer Technology.
+- *2023.07 - 2024.05*, Missouri State University, Master's Degree，Master of professional study. 
+- *2015.09 - 2019.06*, Hunan University of Science and Technology，Bachelor's degree，Logistics Management
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.07 - NOW*, Southern University of Science and Technology‌，Shenzhen，China.
+
+
+# 🎖 Participation in Events
+- *2024.01*  Participated in the CES Consumer Electronics Show in Las Vegas, USA.
+- *2024.03*  Attended NVIDIA Artificial Intelligence Conference, USA. 
