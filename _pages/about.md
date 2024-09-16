@@ -41,6 +41,18 @@ Yaoxing Wang,, **Heng Zhou**,  Xian Mo ，Hao Liu
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2023</div><img src='images/12000.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Structural Equivariance Self-Supervised Learning for Facial Pose Estimation](https://ieeexplore.ieee.org/abstract/document/10219790)
+
+Yaoxing Wang,, **Heng Zhou**,  Xian Mo ，Hao Liu 
+
+
+[**Project**](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Structural+Equivariance+Self-Supervised+Learning+for+Facial+Pose+Estimation&btnG=) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Head pose estimation task. 
+</div>
+</div>
 
 
 
