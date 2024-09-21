@@ -28,7 +28,7 @@ Welcome to my academic homepage! I am Zhou Heng, currently working as a research
 
 [Structural Equivariance Self-Supervised Learning for Facial Pose Estimation](https://ieeexplore.ieee.org/abstract/document/10219790)
 
-Yaoxing Wang,, **Heng Zhou**,  Xian Mo ，Hao Liu 
+Yaoxing Wang, **Heng Zhou**,  Xian Mo ，Hao Liu 
 
 
 [**Project**](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Structural+Equivariance+Self-Supervised+Learning+for+Facial+Pose+Estimation&btnGd=) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
