@@ -40,6 +40,7 @@ Yaoxing Wang,, **Heng Zhou**,  Xian Mo ，Hao Liu
 <div class='paper-box-text' markdown="1">
 
 [FedVital: Federated Reconstruction of Fine-grainedVital Signs Under Motion Artifacts]
+
 **Heng Zhou**, Yuxuan Wen, Tianyue Zheng
 
 
