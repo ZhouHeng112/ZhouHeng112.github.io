@@ -31,7 +31,7 @@ Welcome to my academic homepage! I am Zhou Heng, currently working as a research
 Yaoxing Wang,, **Heng Zhou**,  Xian Mo ，Hao Liu 
 
 
-[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Structural+Equivariance+Self-Supervised+Learning+for+Facial+Pose+Estimation&btnGd=) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Head pose estimation task. 
 </div>
 </div>
@@ -43,7 +43,7 @@ FedVital: Federated Reconstruction of Fine-grainedVital Signs Under Motion Artif
 
 **Heng Zhou**, Yuxuan Wen, Tianyue Zheng
 
-[**Project**](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Structural+Equivariance+Self-Supervised+Learning+for+Facial+Pose+Estimation&btnGd=) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Vital Signs Signal Processing. 
 </div>
 </div>
