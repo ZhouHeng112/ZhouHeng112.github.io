@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic homepage! I am Zhou Heng, currently working as a research assistant at Southern University of Science and Technology. My research focuses primarily on graph neural networks, self-supervised learning, federated learning, signal processing, and IoT engineering. I am dedicated to addressing complex real-world problems through the intersection of these fields, such as facial pose estimation and fine-grained vital sign reconstruction.# 📄 Download CV
-[Download my CV](docs/cv.pdf)
+Welcome to my academic homepage! I am Zhou Heng, currently working as a research assistant at Southern University of Science and Technology. My research focuses primarily on graph neural networks, self-supervised learning, federated learning, signal processing, and IoT engineering. I am dedicated to addressing complex real-world problems through the intersection of these fields, such as facial pose estimation and fine-grained vital sign reconstruction.# 📄[Download my CV](docs/cv.pdf)
 
 
 
