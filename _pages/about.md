@@ -44,7 +44,7 @@ FedVital: Federated Reconstruction of Fine-grainedVital Signs Under Motion Artif
 
 **Heng Zhou**, Yuxuan Wen, Tianyue Zheng
 
-[📄 Paper (PDF)](/assets/fedvital（1）.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[📄 Paper (PDF)](/assets/fedvital-1.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Vital Signs Signal Processing. 
 </div>
 </div>
