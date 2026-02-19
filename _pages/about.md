@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic homepage! I am Zhou Heng, currently working as a research assistant at Southern University of Science and Technology. My research focuses primarily on graph neural networks, self-supervised learning, federated learning, signal processing, and IoT engineering. I am dedicated to addressing complex real-world problems through the intersection of these fields, such as facial pose estimation and fine-grained vital sign reconstruction.# 📄[Download my CV](assets/周衡.pdf)
+Hi, I’m Zhou Heng.
+I am a full-stack engineer and research-oriented developer with experience in AI-integrated web systems and data-driven research.
+I specialize in building conversion-oriented web applications, integrating AI capabilities such as speech processing and large language models into lightweight backend systems. My engineering work focuses on rapid deployment, clean data pipelines, and user behavior tracking.
+I am comfortable working in English-speaking technical environments and enjoy bridging real-world problems with practical engineering and research solutions..# 📄[Download my CV](assets/周衡.pdf)
 
 
 
